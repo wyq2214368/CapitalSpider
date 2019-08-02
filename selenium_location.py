@@ -613,8 +613,6 @@ def findLatLong(browser, target_list):
     return latlonglist
 
 
-
-
 def main():
 
     start_time = time.time()

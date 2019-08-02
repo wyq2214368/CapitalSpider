@@ -3,12 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Source/ChinaDigitalIndex.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Source/ChinaProvinces.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Source/country_info.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Source/country_info_with_capital.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Target/ChinaDigitalIndex.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Target/ChinaDigitalIndex_with_latlong.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Target/ChinaProvinces_with_latlong.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Target/ChinaProvinces.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Target/WorldCityLongitudeLatitudeInfomation.csv" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Target/country_info_with_capital_latlong.csv" charset="GBK" />
   </component>
 </project>
